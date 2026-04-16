@@ -1,19 +1,40 @@
-
-
 h1 {
-  font-size: 40px;
-  font-family: Arial
+    font-size: 40px;
+    font-family: Arial, sans-serif;
 }
+
 h2 {
-  font-size: 25px;
-  font-family: Arial
+    font-size: 25px;
+    font-family: Arial, sans-serif;
 }
+
 h3 {
-  font-family: Arial
+    font-family: Arial, sans-serif;
 }
+
 p {
-  font-size: 14px;
-  font-family: Arial
+    font-size: 14px;
+    font-family: Arial, sans-serif;
 }
 
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
 
+.site-header {
+    background-color: green;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+.site-title {
+    margin: 0;
+    font-size: 28px;
+}
+.logo {
+    width: 120px;
+    display: block;
+    margin: 0 auto 10px auto;
+}
